@@ -1,3 +1,4 @@
 # rsschool-cv
 
-https://github.com/Razer2550/rsschool-cv.git
+https://Razer2550.github.io/rsschool-cv/cv
+https://Razer2550.github.io/rsschool-cv/
